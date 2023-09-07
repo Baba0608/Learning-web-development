@@ -1,2 +1,6 @@
 
 I have created a txt file which is dom.txt and its my first file in github.
+
+I am editing this file.
+
+I am learning dom in javaScript.
